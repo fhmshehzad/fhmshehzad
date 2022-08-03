@@ -1,32 +1,32 @@
-# Fahim Shehzad
+# Fahim Shehzad 🙂
 Creative and self learned Freelancer with experience varying in different domains such as Web Development, Bug Fixing, Code Review and Reverse Engineering.  Willing to work with others in the hopes of learning new things and creatively providing solutions to complex problems and collaborating with them.
 
-# SKILLS
+# SKILLS 🐱‍💻
 Programming & Scripting Languages:
 • Python 2/3  • C/C++  • PHP  • Bash Shell Scripting   • Irvine MASM  • MySQL  • Socket Programming
 Techs: 
 • AWS  • Azure  • Linux  • BurpSuite  • Wireshark  • IDA  • Ghidra  • Netcat
 
-# EXPERIENCE
+# EXPERIENCE 👨‍💼
 • Freelancer - Fiverr/Upwork: 2020 - Ongoing
 
 • Develop & maintain tools for different organizations on both fiverr and upwork. 
 
 • Teach c++ and python to beginner level programmers.
 
-# EDUCATION
+# EDUCATION 👨‍🎓
 • BS(CYS), Cyber Security - Air University Islamabad (2019 - 2023)
 
 • Intermediate (FSc - Pre-Engineering) - APSACS (2017 - 2019)
 
 • Matriculation (Computer Science) - APSACS (2015 - 2017)
 
-# PROJECTS
+# PROJECTS 👨‍💻
 • Decentranet: Using IPFS and Ethereum Blockchain to create a Decentralized Internet.
 
 • Online Retail Management System: A website for online shopping with stable backend written in PHP
 
-# CERTIFICATIONS
+# CERTIFICATIONS 👨‍🎓
 • Cloud Solutions Architect - Pakistan Software Export Board (2022 - Ongoing)
 
 • Ethical Hacking Essentials - EC-Council (Codered) 
@@ -35,12 +35,12 @@ Techs:
 
 • Azure Fundamentals - Microsoft Learn
 
-# LANGUAGES
+# LANGUAGES 👌
 • English - Proficient
 
 • Urdu - Native
 
-# FIND ME ONLINE 
+# FIND ME ONLINE 📱
 • Github - https://github.com/fhmshehzad
 
 • Discord - docparadox42026#0422
