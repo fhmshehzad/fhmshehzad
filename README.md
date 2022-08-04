@@ -35,7 +35,7 @@ Techs:
 
 • Azure Fundamentals - Microsoft Learn
 
-# LANGUAGES 👌
+# LANGUAGES 🏳️
 • English - Proficient
 
 • Urdu - Native
