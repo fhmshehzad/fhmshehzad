@@ -1,5 +1,5 @@
 # Fahim Shehzad 🙂
-Creative and self learned Freelancer with experience varying in different domains such as Web Development, Bug Fixing, Code Review and Reverse Engineering.  Willing to work with others in the hopes of learning new things and creatively providing solutions to complex problems and collaborating with them.
+Creative and self learned Freelancer with experience varying in different domains such as Cloud Solutions, Web Development, Bug Fixing, Code Review and Reverse Engineering.  Willing to work with others in the hopes of learning new things and creatively providing solutions to complex problems and collaborating with them.
 
 # SKILLS 🐱‍💻
 Programming & Scripting Languages:
@@ -27,7 +27,7 @@ Techs:
 • Online Retail Management System: A website for online shopping with stable backend written in PHP
 
 # CERTIFICATIONS 👨‍🎓
-• Cloud Solutions Architect - Pakistan Software Export Board (2022 - Ongoing)
+• Cloud Solutions Architect - Pakistan Software Export Board
 
 • Ethical Hacking Essentials - EC-Council (Codered) 
 
