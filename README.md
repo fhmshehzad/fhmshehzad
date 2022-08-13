@@ -32,6 +32,8 @@ Techs:
 • Ethical Hacking Essentials - EC-Council (Codered) 
 
 • Network Defense Essentials - EC-Council (Codered)
+ 
+• Digital Forensics Essentials - EC-Council (Codered)
 
 • Azure Fundamentals - Microsoft Learn
 
