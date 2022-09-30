@@ -50,5 +50,3 @@ Techs:
 • Twitter - https://twitter.com/fhm_sh
 
 • LinkedIn - https://www.linkedin.com/in/fahim-shehzad/
-
-• Whatsapp - +923315188338
