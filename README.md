@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Amazon Web Services**
 
-- 👨‍💻 All of my projects are available at [fhmshehzad.github.io](fhmshehzad.github.io)
+- 👨‍💻 All of my projects are available at [fhmshehzad.github.io](https://fhmshehzad.github.io/)
 
 - 📫 How to reach me **fhmshehzad@gmail.com**
 
