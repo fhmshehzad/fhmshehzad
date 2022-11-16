@@ -26,4 +26,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fhmshehzad&show_icons=true&locale=en" alt="fhmshehzad" /></p>
 
 <h3 align="left">Badges:</h3>
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="f0a868be-e44b-4984-b591-2665c14f36a5" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+ISC2
+https://www.credly.com/badges/f0a868be-e44b-4984-b591-2665c14f36a5/public_url
