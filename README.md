@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">Games, music and Web3—my eclectic playground</h3>
+<h3 align="center">Games, music and Web3 — my eclectic playground 🎮🎵🌐</h3>
 
 - 🔭 I’m currently working on [Decentranet](https://github.com/fhmshehzad/Decentranet)
 
