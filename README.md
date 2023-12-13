@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fahim</h1>
-<h3 align="center">Creative and self learned Freelancer with experience varying in different domains such as Cloud Solutions, Web Development, Bug Fixing, Code Review and Reverse Engineering. Willing to work with others in the hopes of learning new things and creatively providing solutions to complex problems and collaborating with them.</h3>
+<h3 align="center">A creative and self learned individual with experience varying in different domains such as Cloud Solutions, Web3, Bug Fixing, Code Review, Cyber Security and Blockchain. Willing to work with others in the hopes of learning new things and increase my skillset. Passionate about providing creative solutions to complex problems while fostering strong partnerships fellow team members.</h3>
 
 - 🔭 I’m currently working on [Decentranet](https://github.com/fhmshehzad/Decentranet)
 
