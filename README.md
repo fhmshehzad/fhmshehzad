@@ -3,8 +3,6 @@
 
 - 🔭 I’m currently working on [Decentranet](https://github.com/fhmshehzad/Decentranet)
 
-- 🌱 I’m currently learning [VICIdial](https://www.vicidial.com/)
-
 - 👨‍💻 All of my projects are available at [fhmshehzad.github.io](https://fhmshehzad.github.io/)
 
 - 📫 How to reach me **fhmshehzad@gmail.com**
